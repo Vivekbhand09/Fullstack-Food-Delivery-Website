@@ -7,7 +7,7 @@ const razorpay = new Razorpay({
   key_secret: process.env.RAZORPAY_KEY_SECRET
 });
 
-const frontend_url = "http://localhost:5173";
+const frontend_url = "https://fullstack-food-delivery-website-frontend.onrender.com";
 
 const placeOrder = async (req, res) => {
   try {
