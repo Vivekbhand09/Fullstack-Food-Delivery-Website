@@ -55,50 +55,35 @@ Whether you want to place an order, track delivery, or manage your food items as
 ---
 
 
-
-## 📁 Project Structure
-
-```bash
-├── client/                # React Frontend
-│   ├── components/        # Reusable Components
-│   ├── pages/             # UI Pages (Home, Login, Cart, etc.)
-│   ├── context/           # Global State (Cart, Auth)
-│   └── ...
-├── server/                # Express Backend
-│   ├── routes/            # API Endpoints
-│   ├── controllers/       # Business Logic
-│   ├── models/            # MongoDB Schemas
-│   ├── middlewares/       # Auth Middleware
-│   └── ...
-
 ## 📷 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](1.png)
+![Screenshot 1](1.png)
 
 ### 🔐 SignUp/Login Page  
-![Auth Page](2.png)
+![Screenshot 2](2.png)
 
 ### 🍽️ Menu  
-![Menu](3.png)
+![Screenshot 3](3.png)
 
 ### 🍲 Various Dishes  
-![Dishes](4.png)
+![Screenshot 4](4.png)
 
 ### 👣 Footer  
-![Footer](5.png)
+![Screenshot 5](5.png)
 
 ### 🛒 Cart items and Cart Total  
-![Cart](6.png)
+![Screenshot 6](6.png)
 
 ### 🚚 Delivery Information  
-![Delivery Info](7.png)
+![Screenshot 7](7.png)
 
-### 🧑‍🍳 Admin Panel - Add items feature  
-![Admin Add](8.png)
+### 🧑‍🍳 Admin Panel - Add Items  
+![Screenshot 8](8.png)
 
-### 📋 Admin Panel - List of all items  
-![Admin Items](9.png)
+### 📋 Admin Panel - Item List  
+![Screenshot 9](9.png)
 
-### 📦 Admin Panel - Orders and their status  
-![Admin Orders](10.png)
+### 📦 Admin Panel - Orders Overview  
+![Screenshot 10](10.png)
+
