@@ -70,3 +70,45 @@ Whether you want to place an order, track delivery, or manage your food items as
 │   ├── models/            # MongoDB Schemas
 │   ├── middlewares/       # Auth Middleware
 │   └── ...
+
+---
+## 🏠 Home Page  
+![Screenshot 1](1.png)
+
+---
+## 🏠 SignUp/Login Page
+![Screenshot 2](2.png)
+
+---
+## 🏠 Menu 
+![Screenshot 3](3.png)
+
+---
+## 🏠 Various Dishes
+![Screenshot 4](4.png)
+
+---
+## 🏠 Footer
+![Screenshot 5](5.png)
+
+---
+## 🏠 Cart items and Cart Total  
+![Screenshot 6](6.png)
+
+---
+## 🏠 Delivery Information
+![Screenshot 7](7.png)
+
+---
+## 🏠 Admin Panel - Add items feature 
+![Screenshot 8](8.png)
+
+---
+## 🏠 Admin Panel - List of all items
+![Screenshot 9](9.png)
+
+---
+## 🏠 Admin Panel - All orders and their status
+![Screenshot 10](10.png)
+
+---
