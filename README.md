@@ -29,7 +29,7 @@ Whether you want to place an order, track delivery, or manage your food items as
 
 ### 🖥️ Frontend
 - ⚛️ **React.js** – Building user interfaces
-- 🎨 **Tailwind CSS** – Utility-first CSS for fast styling
+- 🎨 **CSS** – Utility-first CSS for fast styling
 - 🎯 **Context API** – Managing global state
 - 🌐 **Axios** – HTTP requests to backend
 
@@ -49,8 +49,8 @@ Whether you want to place an order, track delivery, or manage your food items as
 - 💰 **Razorpay** – Payment gateway integration
 
 ### ☁️ Deployment
-- 🚀 **Netlify** – Hosting for React frontend
-- 🔧 **Render / Heroku** – Hosting for backend services
+
+- 🔧 **Render** – Hosting  for React frontend and backend services
 
 ---
 
