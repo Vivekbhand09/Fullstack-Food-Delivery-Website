@@ -56,6 +56,8 @@ Whether you want to place an order, track delivery, or manage your food items as
 
 
 ## 📷 Screenshots
+### Preview
+![preview](preview.png)
 
 ### 🏠 Home Page  
 ![Screenshot 1](1.png)
